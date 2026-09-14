@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Mahi AI Assistant",
+  "short_name": "Mahi AI",
+  "description": "Real-time voice-to-voice AI girlfriend and companion that runs seamlessly on phone screens and lock-screens.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0c",
+  "theme_color": "#0a0a0c",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
